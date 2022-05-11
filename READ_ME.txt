@@ -1,6 +1,6 @@
 need:
 	import pygame
-	import neat 
+	import neat-python
 	import time
 	import os
 	import random 
